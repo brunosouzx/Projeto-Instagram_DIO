@@ -1,2 +1,2 @@
-# Projeto-Instagram_DIO
-Projeto da criação da tela de login do instagram
+# Olá! Esse é o Projeto Instagram 
+Esse é o meu repositório do meu projeto da criação da tela do instagram
